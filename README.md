@@ -3,8 +3,8 @@
 <br> I made this for a friend, to help him organize his orders, he has a small farm that produces milk and different milk products.</p>
 <br>
 
-**<p align="center">The app logo is the jeep he used for the delivery.**
-<p align="center"><img alt="logo" height="150" src="Screenshots/1.png"/>
+**<p align="center">The app icon is the jeep he used for the delivery.**
+<p align="center"><img alt="icon" height="150" src="Screenshots/1.png"/>
 
 <p align="center"><img alt="unity" height="300" src="Screenshots/2.png"/>
 
