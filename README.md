@@ -43,4 +43,8 @@
 #### <p align="center">Also a secret invisible button on the cow's nose, playing "Moo" sounds.
 
 ## <p align="center">DEMO
-[<p align="center">![Watch the demo](Screenshots/thumb.png)](https://www.youtube.com/shorts/zqo4OBJc0oQ)
+<p align="center">
+  <a href="https://www.youtube.com/shorts/zqo4OBJc0oQ" target="_blank" rel="noopener noreferrer">
+    <img src="Screenshots/thumb.png" alt="Watch the demo">
+  </a>
+</p>
