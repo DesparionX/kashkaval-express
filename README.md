@@ -43,4 +43,4 @@
 #### Also a secret invisible button on the cow's nose, playing "Moo" sounds.
 
 ## DEMO
-<video src="Screenshots/demo.mp4" controls height="400"></video>
+[![Watch the demo](Screenshots/3.png)](Screenshots/demo.mp4)
